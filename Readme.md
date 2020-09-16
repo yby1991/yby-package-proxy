@@ -42,3 +42,13 @@ myProxy({
 });
 
 ```
+
+### versions
+
+1.0.1 depends
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.5"
+
+1.0.0 depends
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^0.19.1"

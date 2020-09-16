@@ -1,6 +1,6 @@
 {
   "name": "yby-package-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a proxy run on node environment",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,9 @@
   },
   "author": "yby",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "express": "^4.17.1",
-    "http-proxy-middleware": "^0.19.1"
+    "http-proxy-middleware": "^1.0.5"
   }
 }
